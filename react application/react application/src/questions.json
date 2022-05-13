@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "question": "Which is a progranming language?",
+      "questionType": "radio",
+      "answerOptions": [
+        { "option": "HTML", "isCorrect": true },
+        { "option": "HTTP", "isCorrect": false },
+        { "option": "HPML", "isCorrect": false },
+        { "option": "FTP", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How is document type initialized in HTML5.?",
+      "questionType": "checkbox",
+      "answerOptions": [
+        { "option": "<!DOCTYPE HTML> ", "isCorrect": true },
+        { "option": "</DOCTYPE>", "isCorrect": false },
+        { "option": "<!DOCTYPE HTML>", "isCorrect": true },
+        { "option": "</DOCTYPE html>", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "html necessary tags",
+      "questionType": "textInput",
+      "answerOptions": [{ "option": "meta tags" ,"title tag", "isCorrect": true }]
+    }
+  ]
